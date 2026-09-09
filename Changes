@@ -406,7 +406,7 @@ Working version
   of nonmatching input if a rule is not exhaustive (Martin Jambon,
   review by David Allsopp and Gabriel Scherer)
 
-- #14172: stop reversing the order of -L arguments in ocamlmklib, a quirk
+* #14172: stop reversing the order of -L arguments in ocamlmklib, a quirk
   introduced by accident in 2012.
   (Alexandre Douard, review by Daniel Bünzli and Nicolás Ojeda Bär)
 
